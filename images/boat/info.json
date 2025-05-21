@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 27,
+    "height" : 40
+  }, {
+    "width" : 54,
+    "height" : 80
+  }, {
+    "width" : 107,
+    "height" : 160
+  }, {
+    "width" : 214,
+    "height" : 320
+  }, {
+    "width" : 427,
+    "height" : 640
+  }, {
+    "width" : 853,
+    "height" : 1280
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 853,
+  "@id" : "https://giulialembo11.github.io/Test-training-IIIF/images/boat",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1280
+}
